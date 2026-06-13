@@ -1,8 +1,5 @@
 # Hi there 👋
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+👋+I'm+Khushi+Patwa;B.Tech+AIML+Student;Exploring+AI+and+Machine+Learning;Learning+and+Growing+Every+Day;Turning+Ideas+Into+Projects+🚀" />
-</p>
 
 ## 👩‍🎓 About Me
 
