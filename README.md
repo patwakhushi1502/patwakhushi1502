@@ -13,8 +13,8 @@
 - Git & GitHub
 - Web Development
 - AI & Machine Learning
--Learning New Technologies and Building Skills
--Passionate About Technology & Innovation
+- Learning and Building Skills
+- Passionate About Technology & Innovation
 
 ## 🎯 Goals
 
