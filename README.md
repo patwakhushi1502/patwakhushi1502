@@ -7,6 +7,7 @@
 ## 👩‍🎓 About Me
 
 🎓 B.Tech AIML Student
+
 🌱 Currently Learning:
 - Java
 - Git & GitHub
@@ -35,4 +36,3 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=patwakhushi1502)
 
-## 🚀 Student Portfolio
