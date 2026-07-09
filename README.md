@@ -1,5 +1,7 @@
-# Hi there 👋
-
+<h1 align="center">
+Hi there, I'm Khushi Patwa
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+</h1>
 
 ## 👩‍🎓 About Me
 
