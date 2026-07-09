@@ -4,10 +4,12 @@ Hi there, I'm Khushi Patwa
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+I'm+Khushi+Patwa;B.Tech+AIML+Student;AI+%7C+ML+%7C+MCP+Developer;Open+Source+Learner;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Hi+I'm+Khushi+Patwa;B.Tech+AIML+Student;AI+%7C+ML+%7C+MCP+Developer;Open+Source+Learner;Always+Learning+New+Things">
 </p>
 
-![Snake animation](https://github.com/patwakhushi1502/patwakhushi1502/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=patwakhushi1502&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+</p>
 
 ## 👩‍🎓 About Me
 
@@ -21,20 +23,40 @@ Hi there, I'm Khushi Patwa
 - Learning and Building Skills
 - Passionate About Technology & Innovation
 
-## 🎯 Goals
-
-- Build Projects
-- Strengthen DSA & Development Skills
-- Explore Open Source
-
 ## 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,html,css,js,mysql,tensorflow"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=patwakhushi1502&show_icons=true&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=patwakhushi1502&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=patwakhushi1502&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=patwakhushi1502&theme=onedark&margin-w=15)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=patwakhushi1502&theme=tokyo-night)
+
+---
+
+## 🐍 Snake Eating Contributions
+
+![Snake animation](https://github.com/patwakhushi1502/patwakhushi1502/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 ## 🔥 Contribution Streak
