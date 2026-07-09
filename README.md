@@ -4,8 +4,10 @@ Hi there, I'm Khushi Patwa
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Khushi+Patwa;B.Tech+AIML+Student;AI+%7C+ML+%7C+MCP+Developer;Open+Source+Learner;Always+Learning+New+Things">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi+I'm+Khushi+Patwa;B.Tech+AIML+Student;AI+%7C+ML+%7C+MCP+Developer;Open+Source+Learner;Always+Learning+New+Things">
 </p>
+
+![Snake animation](https://github.com/patwakhushi1502/patwakhushi1502/blob/output/github-contribution-grid-snake.svg)
 
 ## 👩‍🎓 About Me
 
