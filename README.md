@@ -57,7 +57,3 @@ Hi there, I'm Khushi Patwa
 
 ![Snake animation](https://raw.githubusercontent.com/patwakhushi1502/patwakhushi1502/output/github-contribution-grid-snake-dark.svg)
 
-## 🌊 Ocean Contribution
-
-![Ocean](https://raw.githubusercontent.com/patwakhushi1502/patwakhushi1502/output/ocean.gif)
-
