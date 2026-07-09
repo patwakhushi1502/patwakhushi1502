@@ -58,33 +58,5 @@ Hi there, I'm Khushi Patwa
 ![Snake animation](https://github.com/patwakhushi1502/patwakhushi1502/blob/output/github-contribution-grid-snake-dark.svg)
 
 
-name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: patwakhushi1502
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
