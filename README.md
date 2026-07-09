@@ -55,8 +55,7 @@ Hi there, I'm Khushi Patwa
 
 ## 🐍 Snake Eating Contributions
 
-![Snake animation](https://github.com/patwakhushi1502/patwakhushi1502/blob/output/github-contribution-grid-snake-dark.svg)
-
+![Snake animation](https://raw.githubusercontent.com/patwakhushi1502/patwakhushi1502/output/github-contribution-grid-snake-dark.svg)
 
 
 
